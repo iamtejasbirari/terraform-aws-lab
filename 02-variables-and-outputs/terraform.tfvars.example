@@ -1,0 +1,7 @@
+aws_region = "ap-south-1"
+
+ami_id = "YOUR_AMI_ID"
+
+instance_type = "t3.micro"
+
+environment = "dev"
