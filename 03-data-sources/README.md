@@ -1,4 +1,4 @@
-# Terraform Data Sources
+# Phase 3 - Terraform Data Sources
 
 This phase introduces data sources: how Terraform reads existing infrastructure (an Amazon Linux AMI) and feeds it into a resource it manages (an EC2 instance).
 
