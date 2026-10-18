@@ -1,4 +1,4 @@
-# Terraform Basics
+# Phase 1 - Terraform Basics
 
 A learning module covering the fundamentals of Terraform using a simple AWS S3 bucket.
 
