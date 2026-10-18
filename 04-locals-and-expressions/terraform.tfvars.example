@@ -1,0 +1,7 @@
+environment = "dev"
+
+features = {
+  monitoring = true
+  backup     = false
+  logging    = true
+}
