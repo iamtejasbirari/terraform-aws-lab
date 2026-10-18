@@ -1,4 +1,4 @@
-# Terraform Variables, Validation and Outputs
+# Phase 2 - Terraform Variables, Validation and Outputs
 
 This phase replaces hardcoded values with variables, adds validation, and exposes results through outputs, using an AWS EC2 instance as the example.
 
